@@ -1,8 +1,8 @@
 /* styles.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #b9f2ff;
+    color: #ffffff;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -16,15 +16,15 @@ body {
 h1 {
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #4CAF50;
+    color: #21e5e2;
 }
 
 .counter {
-    background-image: = url:"animation1. gif";
+    background-image: url("https://i.pinimg.com/originals/5a/93/4e/5a934e84f67d2a61a118ec95b1d6cb74.gif");
     font-size: 1.5rem;
     margin: 10px 0;
     padding: 10px;
-    border: 2px solid #4CAF50;
+    border: 2px solid #4caf4f00;
     border-radius: 5px;
     background-color: #ffffff;
     width: 300px;
@@ -35,7 +35,7 @@ h1 {
     font-size: 1rem;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #4CAF50;
+    background-image: url("/images/button.png")
     color: white;
     border: none;
     border-radius: 5px;
